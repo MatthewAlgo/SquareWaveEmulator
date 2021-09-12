@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\MatthewAlgo\Desktop\SquareWaveEmulator\build\CMakeFiles\4470e0896324e3f5492b1f0ae2b1b0ad\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{D079C43F-59BE-32F1-B6E9-A175C9B64FFD}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
