@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/MatthewAlgo/Desktop/SquareWaveEmulator
+# Install script for directory: C:/Users/MatthewAlgo/Desktop/ProjectsRecreation/SquareWaveEmulator
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -34,13 +34,13 @@ endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   if("${CMAKE_INSTALL_CONFIG_NAME}" MATCHES "^([Dd][Ee][Bb][Uu][Gg])$")
-    file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/Binaries" TYPE EXECUTABLE FILES "C:/Users/MatthewAlgo/Desktop/SquareWaveEmulator/build/Debug/SineWaveEmulator.exe")
+    file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/Binaries" TYPE EXECUTABLE FILES "C:/Users/MatthewAlgo/Desktop/ProjectsRecreation/SquareWaveEmulator/build/Debug/SineWaveEmulator.exe")
   elseif("${CMAKE_INSTALL_CONFIG_NAME}" MATCHES "^([Rr][Ee][Ll][Ee][Aa][Ss][Ee])$")
-    file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/Binaries" TYPE EXECUTABLE FILES "C:/Users/MatthewAlgo/Desktop/SquareWaveEmulator/build/Release/SineWaveEmulator.exe")
+    file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/Binaries" TYPE EXECUTABLE FILES "C:/Users/MatthewAlgo/Desktop/ProjectsRecreation/SquareWaveEmulator/build/Release/SineWaveEmulator.exe")
   elseif("${CMAKE_INSTALL_CONFIG_NAME}" MATCHES "^([Mm][Ii][Nn][Ss][Ii][Zz][Ee][Rr][Ee][Ll])$")
-    file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/Binaries" TYPE EXECUTABLE FILES "C:/Users/MatthewAlgo/Desktop/SquareWaveEmulator/build/MinSizeRel/SineWaveEmulator.exe")
+    file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/Binaries" TYPE EXECUTABLE FILES "C:/Users/MatthewAlgo/Desktop/ProjectsRecreation/SquareWaveEmulator/build/MinSizeRel/SineWaveEmulator.exe")
   elseif("${CMAKE_INSTALL_CONFIG_NAME}" MATCHES "^([Rr][Ee][Ll][Ww][Ii][Tt][Hh][Dd][Ee][Bb][Ii][Nn][Ff][Oo])$")
-    file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/Binaries" TYPE EXECUTABLE FILES "C:/Users/MatthewAlgo/Desktop/SquareWaveEmulator/build/RelWithDebInfo/SineWaveEmulator.exe")
+    file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/Binaries" TYPE EXECUTABLE FILES "C:/Users/MatthewAlgo/Desktop/ProjectsRecreation/SquareWaveEmulator/build/RelWithDebInfo/SineWaveEmulator.exe")
   endif()
 endif()
 
@@ -52,5 +52,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/MatthewAlgo/Desktop/SquareWaveEmulator/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/MatthewAlgo/Desktop/ProjectsRecreation/SquareWaveEmulator/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

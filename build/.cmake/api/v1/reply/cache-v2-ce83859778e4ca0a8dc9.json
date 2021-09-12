@@ -27,7 +27,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/MatthewAlgo/Desktop/SquareWaveEmulator/build"
+			"value" : "c:/Users/MatthewAlgo/Desktop/ProjectsRecreation/SquareWaveEmulator/build"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -479,7 +479,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/MatthewAlgo/Desktop/SquareWaveEmulator"
+			"value" : "C:/Users/MatthewAlgo/Desktop/ProjectsRecreation/SquareWaveEmulator"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1115,7 +1115,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/MatthewAlgo/Desktop/SquareWaveEmulator/build"
+			"value" : "C:/Users/MatthewAlgo/Desktop/ProjectsRecreation/SquareWaveEmulator/build"
 		},
 		{
 			"name" : "SineWaveEmulator_SOURCE_DIR",
@@ -1127,7 +1127,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/MatthewAlgo/Desktop/SquareWaveEmulator"
+			"value" : "C:/Users/MatthewAlgo/Desktop/ProjectsRecreation/SquareWaveEmulator"
 		},
 		{
 			"name" : "VCPKG_APPLOCAL_DEPS",

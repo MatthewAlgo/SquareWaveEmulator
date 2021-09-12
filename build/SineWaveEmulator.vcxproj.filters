@@ -1,24 +1,24 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Users\MatthewAlgo\Desktop\SquareWaveEmulator\SourceFiles\MainFile.cpp">
+    <ClCompile Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\SquareWaveEmulator\SourceFiles\MainFile.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="C:\Users\MatthewAlgo\Desktop\SquareWaveEmulator\IncludeFiles\helperHeader.h">
+    <ClInclude Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\SquareWaveEmulator\IncludeFiles\helperHeader.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\MatthewAlgo\Desktop\SquareWaveEmulator\CMakeLists.txt" />
+    <CustomBuild Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\SquareWaveEmulator\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Header Files">
-      <UniqueIdentifier>{233DFE9E-EDBD-3FB3-8AC9-ABF4690AF64B}</UniqueIdentifier>
+      <UniqueIdentifier>{26DE9EF2-8FF7-36A6-8EBF-EB84A8674A82}</UniqueIdentifier>
     </Filter>
     <Filter Include="Source Files">
-      <UniqueIdentifier>{077FB94B-27E3-3E73-83D0-99B4DF4E9C24}</UniqueIdentifier>
+      <UniqueIdentifier>{9773AC24-E602-3DA8-9E4A-1666AC9E0337}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>
